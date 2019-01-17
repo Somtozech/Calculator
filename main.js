@@ -6,9 +6,9 @@ let calcWindow;
 
 function createWindow() {
   calcWindow = new BrowserWindow({
-    width: 350,
-    height: 350,
-    maxHeight: 350,
+    width: 300,
+    height: 400,
+    maxHeight: 400,
     maxWidth: 350
   });
 
