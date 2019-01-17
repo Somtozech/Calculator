@@ -25,6 +25,8 @@ html {
   height: 50px;
   margin: 10px 10px 0px 10px;
   width: auto;
+  user-select: none;
+  -webkit-user-select: none;
   border-radius: 3px;
   text-align: right;
   padding: 10px;

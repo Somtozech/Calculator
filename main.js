@@ -9,7 +9,7 @@ function createWindow() {
     width: 300,
     height: 400,
     maxHeight: 400,
-    maxWidth: 350
+    maxWidth: 800
   });
 
   calcWindow.loadURL(
