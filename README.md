@@ -1,3 +1,3 @@
 # Calculator
 
-### A Calculator App built with Electron
+### A Calculator App built with Electron using html,css and javascript
