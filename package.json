@@ -12,7 +12,7 @@
   "author": "somto",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^4.0.1",
+    "electron": "^9.1.0",
     "electron-winstaller": "^2.7.0"
   }
 }
